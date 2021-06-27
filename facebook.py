@@ -2,6 +2,7 @@
 import mechanize
 import requests
 import re
+import reload
 import logging
 import argparse
 import sys
